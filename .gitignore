@@ -1,0 +1,23 @@
+# Publish only the minimal Server Connector runtime and its skill.
+/*
+!/.gitignore
+!/.gitattributes
+!/.editorconfig
+!/README.md
+!/clipboard_shortcuts.py
+!/connection_attempt.py
+!/connector_bridge.py
+!/connector_mcp.py
+!/connector_operations.py
+!/install_mcp.py
+!/remote_tools.py
+!/requirements.txt
+!/run.bat
+!/server_connector.py
+!/sftp_client.py
+!/storage.py
+!/skills/
+/skills/*
+!/skills/server-connector/
+/skills/server-connector/*
+!/skills/server-connector/SKILL.md
